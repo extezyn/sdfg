@@ -1,0 +1,36 @@
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\SmertLoham.exe.config
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\SmertLoham.exe
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\SmertLoham.pdb
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham.csproj.AssemblyReference.cache
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\MainWindow.g.cs
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\App.g.cs
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham_MarkupCompile.cache
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham_MarkupCompile.lref
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\MainWindow.baml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham.g.resources
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham.Properties.Resources.resources
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham.csproj.GenerateResource.cache
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham.csproj.CoreCompileInputs.cache
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham.exe
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham.pdb
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\EntityFramework.dll
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\EntityFramework.xml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\SmertLoham.csproj.CopyComplete
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\Admin okno.g.cs
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\Admin okno.baml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\AdminOknoReal.g.cs
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\AdminOknoReal.baml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\AcountOkno.g.cs
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\AcountOkno.baml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\AuthorizedOkno.g.cs
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\AuthorizedOkno.baml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\Products.g.cs
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\Products.baml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\Perevodchik.g.cs
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\obj\Debug\Perevodchik.baml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roma\source\repos\SmertLoham\SmertLoham\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
